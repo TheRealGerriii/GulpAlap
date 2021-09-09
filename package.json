@@ -1,0 +1,20 @@
+{
+  "name": "tipus",
+  "version": "1.0.0",
+  "description": "Tipusok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server --baseDir=public"
+  },
+  "author": "Hermányi Gergely",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "lite-server": "^2.6.1"
+  },
+  "keywords": []
+}
